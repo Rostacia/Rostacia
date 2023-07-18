@@ -1,5 +1,5 @@
 <h1 align="center"> Hi👋, I'm Rostacia</h1>
-<h3 align="center">I'm a software engineer and computational research scientist based in New England.</h3>
+<h3 align="center">I'm a software engineer and computational research scientist based in New England</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://rostacialewis.netlify.app/)
 

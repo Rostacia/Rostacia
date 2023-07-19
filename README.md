@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rostacia-lewis/](https://www.linkedin.com/in/rostacia-lewis/)
 
-- ⚡ Fun fact **I've lived in 3 totally different parts of the world**
+- ⚡ Fun fact **mixing chemicals is like writing code, where precision and careful handling help avoid unexpected reactions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **full-stack web applications**
 
-- 🤝 I’m looking for help with **data structures and React**
+- 🤝 I’m looking for help with **data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://rostacialewis.netlify.app/](https://rostacialewis.netlify.app/)
 
 - 💬 Ask me about **math, science and tech**
 
-- 📫 How to reach me **rostacia.l@gmail.com**
+- 📫 How to reach me **rostacia@arlethaconsulting.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rostacia-lewis/](https://www.linkedin.com/in/rostacia-lewis/)
 
